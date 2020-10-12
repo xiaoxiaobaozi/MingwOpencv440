@@ -1,0 +1,2 @@
+"D:\Program Files (x86)\minGW64\bin\ar.exe" qc ..\lib\libquirc.a CMakeFiles/quirc.dir/src/decode.c.obj CMakeFiles/quirc.dir/src/quirc.c.obj CMakeFiles/quirc.dir/src/version_db.c.obj
+"D:\Program Files (x86)\minGW64\bin\ranlib.exe" ..\lib\libquirc.a

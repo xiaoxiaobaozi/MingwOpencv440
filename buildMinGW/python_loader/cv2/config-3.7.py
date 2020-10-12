@@ -1,0 +1,3 @@
+PYTHON_EXTENSIONS_PATHS = [
+    'D:/Opencv440/buildMinGW/lib/python3'
+] + PYTHON_EXTENSIONS_PATHS

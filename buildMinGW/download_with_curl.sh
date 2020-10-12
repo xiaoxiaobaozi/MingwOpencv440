@@ -1,0 +1,3 @@
+curl --create-dirs --output "D:/Opencv440/sources/.cache/ffmpeg/854b3460c435d04277e1f1ecc06cb809-opencv_videoio_ffmpeg.dll" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/1df9bf0c0c6c2cf225bd3d8e4cf5985198352454/ffmpeg/opencv_videoio_ffmpeg.dll"
+curl --create-dirs --output "D:/Opencv440/sources/.cache/ffmpeg/3a46d6356220796e044817ae3a21cc31-opencv_videoio_ffmpeg_64.dll" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/1df9bf0c0c6c2cf225bd3d8e4cf5985198352454/ffmpeg/opencv_videoio_ffmpeg_64.dll"
+curl --create-dirs --output "D:/Opencv440/sources/.cache/ffmpeg/ad57c038ba34b868277ccbe6dd0f9602-ffmpeg_version.cmake" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/1df9bf0c0c6c2cf225bd3d8e4cf5985198352454/ffmpeg/ffmpeg_version.cmake"

@@ -1,0 +1,1 @@
+-ID:/Opencv440/sources/modules/stitching/include -ID:/Opencv440/buildMinGW/modules/stitching -ID:/Opencv440/sources/modules/core/include -ID:/Opencv440/sources/modules/flann/include -ID:/Opencv440/sources/modules/imgproc/include -ID:/Opencv440/sources/modules/features2d/include -ID:/Opencv440/sources/modules/calib3d/include -isystem D:/Opencv440/buildMinGW

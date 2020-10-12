@@ -1,0 +1,48 @@
+#use_cache "D:/Opencv440/sources/.cache"
+#do_unpack "v0.1.1f.zip" "b624b995ec9c439cbc2e9e6ee940d3a2" "https://github.com/opencv/ade/archive/v0.1.1f.zip" "D:/Opencv440/buildMinGW/3rdparty/ade"
+#check_md5 "D:/Opencv440/sources/.cache/ade/b624b995ec9c439cbc2e9e6ee940d3a2-v0.1.1f.zip"
+#remove_unpack "D:/Opencv440/buildMinGW/3rdparty/ade"
+#mkdir "D:/Opencv440/buildMinGW/3rdparty/ade"
+#unpack "D:/Opencv440/buildMinGW/3rdparty/ade" "D:/Opencv440/sources/.cache/ade/b624b995ec9c439cbc2e9e6ee940d3a2-v0.1.1f.zip"
+#do_copy "opencv_videoio_ffmpeg.dll" "854b3460c435d04277e1f1ecc06cb809" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/1df9bf0c0c6c2cf225bd3d8e4cf5985198352454/ffmpeg/opencv_videoio_ffmpeg.dll" "D:/Opencv440/buildMinGW/3rdparty/ffmpeg"
+#missing "D:/Opencv440/buildMinGW/3rdparty/ffmpeg/opencv_videoio_ffmpeg.dll"
+#check_md5 "D:/Opencv440/sources/.cache/ffmpeg/854b3460c435d04277e1f1ecc06cb809-opencv_videoio_ffmpeg.dll"
+#mismatch_md5 "D:/Opencv440/sources/.cache/ffmpeg/854b3460c435d04277e1f1ecc06cb809-opencv_videoio_ffmpeg.dll" "d41d8cd98f00b204e9800998ecf8427e"
+#delete "D:/Opencv440/sources/.cache/ffmpeg/854b3460c435d04277e1f1ecc06cb809-opencv_videoio_ffmpeg.dll"
+#cmake_download "D:/Opencv440/sources/.cache/ffmpeg/854b3460c435d04277e1f1ecc06cb809-opencv_videoio_ffmpeg.dll" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/1df9bf0c0c6c2cf225bd3d8e4cf5985198352454/ffmpeg/opencv_videoio_ffmpeg.dll"
+#try 1
+# timeout on name lookup is not supported
+#   Trying 151.101.228.133:443...
+# connect to 151.101.228.133 port 443 failed: Timed out
+# Failed to connect to raw.githubusercontent.com port 443: Timed out
+# Closing connection 0
+# 
+
+#do_copy "opencv_videoio_ffmpeg_64.dll" "3a46d6356220796e044817ae3a21cc31" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/1df9bf0c0c6c2cf225bd3d8e4cf5985198352454/ffmpeg/opencv_videoio_ffmpeg_64.dll" "D:/Opencv440/buildMinGW/3rdparty/ffmpeg"
+#missing "D:/Opencv440/buildMinGW/3rdparty/ffmpeg/opencv_videoio_ffmpeg_64.dll"
+#check_md5 "D:/Opencv440/sources/.cache/ffmpeg/3a46d6356220796e044817ae3a21cc31-opencv_videoio_ffmpeg_64.dll"
+#mismatch_md5 "D:/Opencv440/sources/.cache/ffmpeg/3a46d6356220796e044817ae3a21cc31-opencv_videoio_ffmpeg_64.dll" "d41d8cd98f00b204e9800998ecf8427e"
+#delete "D:/Opencv440/sources/.cache/ffmpeg/3a46d6356220796e044817ae3a21cc31-opencv_videoio_ffmpeg_64.dll"
+#cmake_download "D:/Opencv440/sources/.cache/ffmpeg/3a46d6356220796e044817ae3a21cc31-opencv_videoio_ffmpeg_64.dll" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/1df9bf0c0c6c2cf225bd3d8e4cf5985198352454/ffmpeg/opencv_videoio_ffmpeg_64.dll"
+#try 1
+# timeout on name lookup is not supported
+#   Trying 151.101.228.133:443...
+# connect to 151.101.228.133 port 443 failed: Timed out
+# Failed to connect to raw.githubusercontent.com port 443: Timed out
+# Closing connection 0
+# 
+
+#do_copy "ffmpeg_version.cmake" "ad57c038ba34b868277ccbe6dd0f9602" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/1df9bf0c0c6c2cf225bd3d8e4cf5985198352454/ffmpeg/ffmpeg_version.cmake" "D:/Opencv440/buildMinGW/3rdparty/ffmpeg"
+#missing "D:/Opencv440/buildMinGW/3rdparty/ffmpeg/ffmpeg_version.cmake"
+#check_md5 "D:/Opencv440/sources/.cache/ffmpeg/ad57c038ba34b868277ccbe6dd0f9602-ffmpeg_version.cmake"
+#mismatch_md5 "D:/Opencv440/sources/.cache/ffmpeg/ad57c038ba34b868277ccbe6dd0f9602-ffmpeg_version.cmake" "d41d8cd98f00b204e9800998ecf8427e"
+#delete "D:/Opencv440/sources/.cache/ffmpeg/ad57c038ba34b868277ccbe6dd0f9602-ffmpeg_version.cmake"
+#cmake_download "D:/Opencv440/sources/.cache/ffmpeg/ad57c038ba34b868277ccbe6dd0f9602-ffmpeg_version.cmake" "https://raw.githubusercontent.com/opencv/opencv_3rdparty/1df9bf0c0c6c2cf225bd3d8e4cf5985198352454/ffmpeg/ffmpeg_version.cmake"
+#try 1
+# timeout on name lookup is not supported
+#   Trying 151.101.108.133:443...
+# connect to 151.101.108.133 port 443 failed: Timed out
+# Failed to connect to raw.githubusercontent.com port 443: Timed out
+# Closing connection 0
+# 
+
